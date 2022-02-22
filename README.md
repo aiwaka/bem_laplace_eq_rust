@@ -12,3 +12,4 @@
 1. `cargo build`
 1. `cargo run`
 1. `plot.txt`が生成されるので gnuplot でプロットする.
+1. `gnuplot plot.gp`とすれば簡単にプロットできる.
